@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="Icons/pause.png">Icons/pause.png</file>
+        <file alias="Icons/play.png">Icons/play.png</file>
+        <file alias="Icons/Next.png">Icons/Next.png</file>
+        <file alias="Icons/Previous.png">Icons/Previous.png</file>
+    </qresource>
+</RCC>
