@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon/logo_pmt.png">icon/logo_pmt.png</file>
+    </qresource>
+</RCC>

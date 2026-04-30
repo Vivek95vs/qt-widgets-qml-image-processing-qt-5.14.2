@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon/logo_pmt.png</file>
+    </qresource>
+</RCC>
