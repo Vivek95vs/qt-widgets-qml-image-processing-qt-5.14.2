@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>check.qml</file>
+        <file>VerticalSliceSlider.qml</file>
+        <file>MedicalInterface.qml</file>
+    </qresource>
+</RCC>
