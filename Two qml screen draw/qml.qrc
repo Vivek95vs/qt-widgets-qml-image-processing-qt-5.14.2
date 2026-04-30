@@ -1,0 +1,74 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PrimaryWindow.qml</file>
+        <file>SecondaryWindow.qml</file>
+        <file>icon/logo_pmt.png</file>
+        <file>CustomToolTip.qml</file>
+        <file>icon/Login - Eye icon.png</file>
+        <file>icon/Login - Eye Off icon.png</file>
+        <file>PrimaryLoginScreen.qml</file>
+        <file>SecondaryLoginScreen.qml</file>
+        <file>PrimaryWorklist.qml</file>
+        <file>SecondaryWorklist.qml</file>
+        <file>icon/13'/C-arm Motions/Angular Icon.png</file>
+        <file>icon/13'/C-arm Motions/Angular.png</file>
+        <file>icon/13'/C-arm Motions/Anti-clockwise diabled.png</file>
+        <file>icon/13'/C-arm Motions/Anti-clockwise enabled.png</file>
+        <file>icon/13'/C-arm Motions/Clockwise disabled.png</file>
+        <file>icon/13'/C-arm Motions/Clockwise enabled.png</file>
+        <file>icon/13'/C-arm Motions/Detector Vertical Icon.png</file>
+        <file>icon/13'/C-arm Motions/Detector Vertical.png</file>
+        <file>icon/13'/C-arm Motions/Down Disabled.png</file>
+        <file>icon/13'/C-arm Motions/Down enabled.png</file>
+        <file>icon/13'/C-arm Motions/Horizontal Icon.png</file>
+        <file>icon/13'/C-arm Motions/Horizontal.png</file>
+        <file>icon/13'/C-arm Motions/Locked.png</file>
+        <file>icon/13'/C-arm Motions/Orbital Icon.png</file>
+        <file>icon/13'/C-arm Motions/Orbital.png</file>
+        <file>icon/13'/C-arm Motions/Unlocked.png</file>
+        <file>icon/13'/C-arm Motions/Up disabled.png</file>
+        <file>icon/13'/C-arm Motions/Up enabled.png</file>
+        <file>icon/13'/C-arm Motions/Vertical Icon.png</file>
+        <file>icon/13'/C-arm Motions/Vertical.png</file>
+        <file>icon/13'/Interlocks/Beam Off Interlock.png</file>
+        <file>icon/13'/Interlocks/Collision Interlock.png</file>
+        <file>icon/13'/Interlocks/Emergency Interlock.png</file>
+        <file>icon/13'/Interlocks/Tube Heat.png</file>
+        <file>icon/13'/Patient Alignment/FFDL.png</file>
+        <file>icon/13'/Patient Alignment/FFDR.png</file>
+        <file>icon/13'/Patient Alignment/FFP.png</file>
+        <file>icon/13'/Patient Alignment/FFS.png</file>
+        <file>icon/13'/Patient Alignment/HFDL.png</file>
+        <file>icon/13'/Patient Alignment/HFDR.png</file>
+        <file>icon/13'/Patient Alignment/HFP.png</file>
+        <file>icon/13'/Patient Alignment/HFS.png</file>
+        <file>icon/13'/CBCT.png</file>
+        <file>icon/13'/HFDL.png</file>
+        <file>icon/13'/Home Disabled.png</file>
+        <file>icon/13'/Images Disabled.png</file>
+        <file>icon/13'/Modes Menu.png</file>
+        <file>icon/13'/Processing.png</file>
+        <file>icon/13'/Settings.png</file>
+        <file>icon/13'/Storage.png</file>
+        <file>icon/32'/Menu Icons/About.png</file>
+        <file>icon/32'/Menu Icons/Help Desk.png</file>
+        <file>icon/32'/Menu Icons/Help.png</file>
+        <file>icon/32'/Menu Icons/Settings.png</file>
+        <file>icon/32'/Menu Icons/Studylist.png</file>
+        <file>icon/32'/Menu Icons/System Info.png</file>
+        <file>icon/32'/Menu Icons/Theme.png</file>
+        <file>icon/32'/Menu Icons/User Management.png</file>
+        <file>icon/32'/Menu Icons/User Manual.png</file>
+        <file>icon/32'/Menu Icons/Worklist.png</file>
+        <file>icon/32'/Worklist Icon/Accounts.png</file>
+        <file>icon/32'/Worklist Icon/Add Patient.png</file>
+        <file>icon/32'/Worklist Icon/Delete Disabled.png</file>
+        <file>icon/32'/Worklist Icon/Delete enabled.png</file>
+        <file>icon/32'/Worklist Icon/Drop down.png</file>
+        <file>icon/32'/Worklist Icon/Menu.png</file>
+        <file>icon/32'/Worklist Icon/Swap Vertical.png</file>
+        <file>icon/32'/Worklist Icon/Sync.png</file>
+        <file>RawImageViewer.qml</file>
+    </qresource>
+</RCC>
