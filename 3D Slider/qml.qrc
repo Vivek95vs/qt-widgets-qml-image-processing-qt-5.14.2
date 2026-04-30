@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>check.qml</file>
+        <file>VerticalSliceSlider.qml</file>
+    </qresource>
+</RCC>
