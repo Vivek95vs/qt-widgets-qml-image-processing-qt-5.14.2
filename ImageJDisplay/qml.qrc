@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>headerFooter.qml</file>
+        <file>leftPanel.qml</file>
+        <file>rightPanel.qml</file>
+        <file>imageViewer.qml</file>
+    </qresource>
+</RCC>
